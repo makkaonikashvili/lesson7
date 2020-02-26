@@ -63,6 +63,10 @@ h5{
     margin-top: -110px;
 
 }
+h6{
+    font-size: 19px;
+    color:black ;
+}
 .firstdiv{
     width: 700px;
     margin-top: 60px;
@@ -77,4 +81,27 @@ h5{
 }
 .lastimg{
     width:194px;
+}
+.littleimg{
+    width: 360px;
+    float: right;
+    margin-top: -480px;
+    margin-right:200px;
+}
+.subscribe{
+    background-color: burlywood;
+    width: 350px;
+    float: right;
+    margin-top: -200px;
+    margin-right:200px ;
+}
+.fill{
+    font-size: 17px;
+    padding-right: 350px;
+}
+.fill2{
+    background-color: cornsilk;
+    border-color: darkgreen;
+    border: 5px;
+    padding-right: 100px;
 }
